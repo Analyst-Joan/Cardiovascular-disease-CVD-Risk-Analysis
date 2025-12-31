@@ -69,7 +69,7 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 * Interactive Excel CVD Dashboard
 * Video walkthrough of dashboard insights
 
-🔗 **Interactive Dashboard:** [https://lnkd.in/d-h4DZ4T](https://lnkd.in/d-h4DZ4T)
+🔗 **Interactive Dashboard:** [Link](https://docs.google.com/spreadsheets/d/125KFqe5nGZ3CQBKdqDMTxzGhTQ08sB5M/export?format=xlsx&ouid=118395754396243334299&rtpof=true&sd=true)
 
 
 ## Skills Demonstrated
