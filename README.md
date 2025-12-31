@@ -1,5 +1,5 @@
 # Cardiovascular Disease (CVD) Risk Analysis
-![CVD Dashboard Overview](CVD_Dboard_Homepg)
+![CVD Dashboard Overview](CVD_Dboard_Homepg.png)
 
 ## Business Problem
 
