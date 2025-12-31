@@ -1,4 +1,4 @@
-# Cardiovascular Disease (CVD) Risk Analysis
+# Cardiovascular Disease (CVD) Risk Analysis [WIP]
 ![CVD Dashboard Overview](CVD_Dboard_Homepg.png)
 
 ## Business Problem
@@ -72,5 +72,4 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 - KPI design using Power Pivot
 - Data modeling in Excel
 - Stakeholder-focused storytelling
-You’re doing this the right way — this README already positions you strongly for **Health Analytics roles**.
 
