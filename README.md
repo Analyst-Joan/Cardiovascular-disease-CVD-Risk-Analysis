@@ -45,15 +45,21 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 * Analyzed demographic, lifestyle, and clinical risk patterns
 * Designed an interactive Excel dashboard with slicers and pivot charts
 
+![CVD Dashboard Overview](CVD_Dboard_overview.png)
+
 ## Key Insights
+
+![CVD Dashboard Overview](CVD_Dboard_RiskAnalysis.png)
 
 * **49% of assessed patients had CVD**, with the highest burden among **women aged 50–59**
 * **Males and individuals aged 60–64** showed the highest overall CVD risk
 * **Overweight patients** exhibited a strong link to hypertension
 * **Smokers and alcohol consumers** recorded elevated blood pressure, cholesterol, and glucose
 
-## Recommendations
 
+
+## Recommendations
+![CVD Dashboard Overview](CVD_Dboard_Insights.png)
 * **Healthcare Administrators:** Implement targeted prevention programs for high-risk demographics
 * **Physicians & Medical Teams:** Prioritize proactive screening and early intervention for patients aged **50+**
 * **Insurance Partners:** Apply risk-based segmentation to adjust premiums and introduce wellness incentives
