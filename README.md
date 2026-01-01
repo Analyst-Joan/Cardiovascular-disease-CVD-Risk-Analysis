@@ -49,7 +49,7 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 
 ## Key Insights
 
-![CVD Dashboard Risk Analysis](CVD_Dboard_RiskAnalysis.png)
+![CVD Dashboard Risk Analysis](CVD_Dboard_Risk_Analysis.png)
 
 * **49% of assessed patients had CVD**, with the highest burden among **women aged 50–59**
 * **Males and individuals aged 60–64** showed the highest overall CVD risk
