@@ -61,7 +61,7 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 * **Healthcare Administrators:** Implement targeted prevention programs for high-risk demographics
 * **Physicians & Medical Teams:** Prioritize proactive screening and early intervention for patients aged **50+**
 * **Insurance Partners:** Apply risk-based segmentation to adjust premiums and introduce wellness incentives
-
+  
   ![CVD Dashboard Overview](CVD_Dboard_Insights.png)
 
 ## Deliverables
