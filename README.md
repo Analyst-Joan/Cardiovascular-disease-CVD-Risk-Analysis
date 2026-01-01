@@ -49,14 +49,12 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 
 ## Key Insights
 
-![CVD Dashboard Risk Analysis](CVD_Dboard_Risk_Analysis.png)
-
 * **49% of assessed patients had CVD**, with the highest burden among **women aged 50–59**
 * **Males and individuals aged 60–64** showed the highest overall CVD risk
 * **Overweight patients** exhibited a strong link to hypertension
 * **Smokers and alcohol consumers** recorded elevated blood pressure, cholesterol, and glucose
-
-
+  
+![CVD Dashboard Risk Analysis](CVD_Dboard_Risk_Analysis.png)
 
 ## Recommendations
 ![CVD Dashboard Overview](CVD_Dboard_Insights.png)
@@ -65,11 +63,8 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 * **Insurance Partners:** Apply risk-based segmentation to adjust premiums and introduce wellness incentives
 
 ## Deliverables
-
-* Interactive Excel CVD Dashboard
-* Video walkthrough of dashboard insights
-
 🔗 **Interactive Dashboard:** [Link](https://docs.google.com/spreadsheets/d/125KFqe5nGZ3CQBKdqDMTxzGhTQ08sB5M/export?format=xlsx&ouid=118395754396243334299&rtpof=true&sd=true)
+🔗 **Video walkthrough of dashboard insights:** [Link](https://www.linkedin.com/posts/chukwuemekajoanc_data-healthcare-dashboard-activity-7312190455914364928--HVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc4f74BKaEgLa0swbbXMdX_VWsk651hVGA)
 
 
 ## Skills Demonstrated
