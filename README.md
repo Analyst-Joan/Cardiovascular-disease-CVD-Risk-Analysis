@@ -1,4 +1,4 @@
-# Cardiovascular Disease (CVD) Risk Analysis [WIP]
+# Cardiovascular Disease (CVD) Risk Analysis
 ![CVD Dashboard Overview](CVD_Dboard_Homepg.png)
 
 ## Business Problem
@@ -57,15 +57,17 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 ![CVD Dashboard Risk Analysis](CVD_Dboard_Risk_Analysis.png)
 
 ## Recommendations
-![CVD Dashboard Overview](CVD_Dboard_Insights.png)
+
 * **Healthcare Administrators:** Implement targeted prevention programs for high-risk demographics
 * **Physicians & Medical Teams:** Prioritize proactive screening and early intervention for patients aged **50+**
 * **Insurance Partners:** Apply risk-based segmentation to adjust premiums and introduce wellness incentives
 
+  ![CVD Dashboard Overview](CVD_Dboard_Insights.png)
+
 ## Deliverables
 🔗 **Interactive Dashboard:** [Link](https://docs.google.com/spreadsheets/d/125KFqe5nGZ3CQBKdqDMTxzGhTQ08sB5M/export?format=xlsx&ouid=118395754396243334299&rtpof=true&sd=true)
-🔗 **Video walkthrough of dashboard insights:** [Link](https://www.linkedin.com/posts/chukwuemekajoanc_data-healthcare-dashboard-activity-7312190455914364928--HVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc4f74BKaEgLa0swbbXMdX_VWsk651hVGA)
 
+🔗 **Video walkthrough of dashboard insights:** [Link](https://www.linkedin.com/posts/chukwuemekajoanc_data-healthcare-dashboard-activity-7312190455914364928--HVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc4f74BKaEgLa0swbbXMdX_VWsk651hVGA)
 
 ## Skills Demonstrated
 - Health data analysis
